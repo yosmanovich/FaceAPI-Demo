@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/FaceAPI/bin/Debug/net8.0
+/FaceAPI/obj
+/FaceAPI-UI/bin/Debug/net8.0-windows
+/FaceAPI-UI/obj
