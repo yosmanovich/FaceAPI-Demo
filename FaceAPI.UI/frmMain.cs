@@ -1,4 +1,4 @@
-using FaceAPI_Demo.Properties;
+using FaceAPI.UI.Properties;
 using Microsoft.Azure.CognitiveServices.Vision.Face.Models;
 using Microsoft.VisualBasic.ApplicationServices;
 using System.Collections.Generic;
